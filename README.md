@@ -18,3 +18,7 @@ A method to empty the list
 
 A unit test must be performed for each method
 The "List" collection from java.util must be used
+
+## Test
+
+![Tests](images/days-of-week-test.png)
